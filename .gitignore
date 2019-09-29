@@ -1,0 +1,13 @@
+.vs/ProductList/v15/Server/sqlite3/storage.ide-wal
+.vs/ProductList/v15/Server/sqlite3/storage.ide-shm
+.vs/ProductList/v15/Server/sqlite3/storage.ide
+.vs/ProductList/v15/Server/sqlite3/db.lock
+.vs/ProductList/v15/.suo
+.vs/ProductList/v14/.suo
+.vs/ProductList/DesignTimeBuild/.dtbcache
+BL/bin/
+BL/obj/
+DataModel/bin/
+DataModel/obj/
+ProductDAL/bin/
+ProductDAL/obj/
